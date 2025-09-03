@@ -64,7 +64,7 @@ python describe_image.py
 
 Here is an example run of the project:
 
-![Example Output](./output.png)
+![Example Output](images/output.png)
 
 ---
 
