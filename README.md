@@ -15,8 +15,8 @@ It loads an image (local file or URL), sends it along with a prompt, and prints 
 ## ⚡ Setup
 
 ```bash
-git clone https://github.com/edujbarrios/vision-llm7-demo.git
-cd vision-llm7-demo
+git clone https://github.com/edujbarrios/VLM_Descriptions_with_llm7.io_API.git
+cd VLM_Descriptions_with_llm7.io_API
 
 # Create virtual environment (optional but recommended)
 python -m venv .venv
