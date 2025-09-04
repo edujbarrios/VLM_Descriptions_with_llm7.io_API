@@ -8,4 +8,5 @@
 | **pixtral-12b-2409**        | mistral  | text, image |
 | **pixtral-large-2411**      | mistral  | text, image |
 
-To use a certain model
+
+To use a certain model edit [config.yaml](../config.yaml)
