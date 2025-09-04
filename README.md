@@ -4,6 +4,9 @@ It loads an image (local file or URL), sends it along with a prompt, and prints 
 
 ---
 
+> [!NOTE]
+> I'm currently researching about LLMs and image processing, that's the reason behind making an specialized adaptation to work with images.
+
 ## ✨ Features
 - Supports **text + image** input via the OpenAI-compatible llm7 API.
 - Configuration via `config.yaml` (no hardcoded values).
@@ -26,6 +29,11 @@ source .venv/bin/activate   # Linux/Mac
 # Install dependencies
 pip install -r requirements.txt
 ```
+### About API Keys
+
+By default, this API provider let's you use an `unused` value to don't use any specific key with a limited rate usage.
+
+If you want **FREE** API keys for more usage rate limits, go to [https://token.llm7.io/](https://token.llm7.io/) (You must log in with Google).
 
 ---
 
