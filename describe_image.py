@@ -58,7 +58,7 @@ def main():
         print("ERROR: define image.path or image.url in config.yaml", file=sys.stderr)
         sys.exit(2)
 
-    print("=== Vision-Language Model image description (See /models/models.md to check all avaiable models) ===")
+    print("=== Vision-Language Model image description===")
     print(f"Base URL : {base_url}")
     print(f"Model    : {model}")
     print(f"Image    : {src}")
@@ -79,3 +79,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
