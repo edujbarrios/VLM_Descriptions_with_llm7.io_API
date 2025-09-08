@@ -1,7 +1,7 @@
 # Vision-Language Model Descriptions with llm7.io API
 
 A minimal Python project showing how to use **Vision-Language Models (VLMs)** through the [llm7 API](https://api.llm7.io/).  
-It loads an image (local file or URL), sends it along with a prompt, and prints the model’s output / answer to the given prompt + image.
+It loads an image (local file or URL), sends it along with a prompt, and prints the model’s output.
 
 ---
 
